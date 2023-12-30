@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SOUMALYA
 - 👀 I’m interested in Video editing,UI/UX, Web Dev, Gaming
-- 🌱 I’m currently learning Android Devolopment
+- 🌱 I’m currently learning Backend Development , Android Devolopment
 - 📫 How to reach me - soumalyadas2002@gmail.com
 
 <!---
